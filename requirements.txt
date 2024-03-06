@@ -1,0 +1,4 @@
+langchain==0.1.11
+streamlit==1.31.1
+anthropic==0.18.1
+langchain-anthropic==0.1.3
