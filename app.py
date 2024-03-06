@@ -18,7 +18,7 @@ with st.sidebar:
 
     anthropic_api_key = st.sidebar.text_input("Ingrese tu API Key de Anthropic y Enter para habilitar el chatbot", key = "chatbot_api_key", type = "password")
     "[Genera tu  API Key en Anthropic - $5 de regalo nos dan para usar su API](https://console.anthropic.com/login)"
-    "[Ver el código](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
+    "[Ver el código](https://github.com/luisgradossalinas/chatbot-langchain-anthropic)"
 
 msg_chatbot = """
         Soy un chatbot que está integrado con Claude 3.
